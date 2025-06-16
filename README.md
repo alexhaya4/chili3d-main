@@ -76,9 +76,8 @@ You can access Chili3D online at:
 
 ## Change Log
 
-You can view the full change log [here](https://github.com/xiangechen/chili3d/releases).
+You can view the full change log [here](https://github.com/alexhaya04/chili3d/releases).
 
-For Chinese users, you can also browse the [media](https://space.bilibili.com/539380032/lists/3108412?type=season).
 
 ## Getting Started
 
