@@ -155,6 +155,6 @@ We welcome contributions in the form of code, bug reports, or feedback. Please f
 
 ## License
 
-Distributed under the GNU Affero General Public License v3.0 (AGPL-3.0). For commercial licensing options, contact xiangetg@msn.cn
+Distributed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 Full license details: [LICENSE](LICENSE)
